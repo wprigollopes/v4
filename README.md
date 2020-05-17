@@ -1,6 +1,8 @@
-<div align="center">
-  Personal website forked from Brittany Chiang
-</div>
+<p align="center">
+    Personal website forked from Brittany Chiang
+</p>
+
+
 
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
