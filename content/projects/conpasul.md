@@ -1,6 +1,7 @@
 ---
 date: '2017-04-01'
 title: 'Panel to preview local cement truck distribution'
+external: 'https://www.conpasul.com.br'
 tech:
   - CodeIgniter
   - PHP

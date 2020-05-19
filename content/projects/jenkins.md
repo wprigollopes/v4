@@ -1,6 +1,7 @@
 ---
 date: '2013-01-01'
 title: 'Implementation of Continuous Integration'
+external: 'https://solis.com.br'
 tech:
   - Jenkins
   - Apache

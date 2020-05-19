@@ -1,7 +1,7 @@
 ---
 date: '2016-03-27'
 title: 'KPIs to MDIC'
-external: 'https://medium.com/@william.prigol.lopes/how-i-solved-real-time-sync-between-sql-server-and-postgresql-with-apache-kafka-3ce6b0b75c'
+external: 'http://www.mdic.gov.br/'
 tech:
   - Laravel
   - PHP
