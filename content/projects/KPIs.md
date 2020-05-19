@@ -1,7 +1,6 @@
 ---
 date: '2015-01-01'
 title: 'Developing company's KPIs'
-external: ''
 tech:
   - PostgreSQL
   - Data Warehouse

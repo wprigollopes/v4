@@ -1,7 +1,6 @@
 ---
 date: '2017-04-01'
 title: 'Panel to preview local cement truck distribution'
-external: ''
 tech:
   - CodeIgniter
   - PHP

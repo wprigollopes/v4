@@ -1,7 +1,6 @@
 ---
 date: '2008-01-01'
 title: 'Vayu2'
-external: ''
 tech:
   - PHP
   - Apache
