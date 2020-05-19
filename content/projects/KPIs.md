@@ -1,6 +1,6 @@
 ---
 date: '2015-01-01'
-title: 'Developing company's KPIs'
+title: "Developing company's KPIs"
 external: 'http://www.carvalhaes.net/'
 tech:
   - PostgreSQL
