@@ -16,6 +16,9 @@ import {
   IconStar,
   IconTwitter,
   IconZap,
+  IconStackOverflow,
+  IconMedium,
+  IconYoutube,
 } from '@components/icons';
 
 const FormattedIcon = ({ name }) => {
@@ -50,6 +53,12 @@ const FormattedIcon = ({ name }) => {
       return <IconTwitter />;
     case 'Zap':
       return <IconZap />;
+    case 'StackOverflow':
+      return <IconStackOverflow />;
+    case 'Medium':
+      return <IconMedium />;
+    case 'Youtube':
+      return <IconYoutube />;
     default:
       return <IconExternal />;
   }

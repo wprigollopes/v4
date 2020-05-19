@@ -1,38 +1,46 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'William Prigol Lopes | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'William Prigol Lopes is a software engineer based in Brazil, who specializes in developing websites, applications to companies.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'William Prigol Lopes, william-prigol-lopes, software engineer, back-end engineer, web developer, javascript, william-lopes, software developer, software consultant',
+  siteUrl: 'https://williamprigollopes.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-166907555-1',
+  googleVerification: '',
+  name: 'William Prigol Lopes',
+  location: 'Brazil',
+  email: 'william.prigol.lopes@gmail.com',
+  github: 'https://github.com/wprigollopes',
+  twitterHandle: '@wplopes',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/wprigollopes',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/william-prigol-lopes',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/wpprigol',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/wplopes',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@william.prigol.lopes',
+    },
+    {
+      name: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCYo0nz47SoqXwSQLxcxJ1fQ',
+    },
+    {
+      name: 'StackOverflow',
+      url: 'https://stackoverflow.com/users/12121627/william-prigol-lopes',
     },
   ],
 
@@ -55,12 +63,12 @@ module.exports = {
     },
   ],
 
-  navHeight: 100,
+  navHeight: 120,
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#1F1A2B',
+    navy: '#1F1A2B',
+    darkNavy: '#1F1A2B',
   },
 
   srConfig: (delay = 200) => ({

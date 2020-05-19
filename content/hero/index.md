@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'William Prigol Lopes'
+subtitle: 'I help companies building software.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software engineer and Ph.D. candidate based in Brazil (also works remotely), focused in building websites, applications and mobile application to help companies and people to growth.
