@@ -20,7 +20,7 @@ skills:
   - GraphQL
 ---
 
-Hello! I'm William, a software developer engineer based in Brazil (working from home) and a Ph.D. student.
+Hello! I'm William, a software developer engineer based in Brazil (working from home) and a Ph.D. candidate on Operations Research.
 
 I like to develop softwares, mainly that involve systems inside companies like sites, applications and mobile applications. I help companies consulting and developing systems, focusing on optimization and integration.
 
