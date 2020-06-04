@@ -40,6 +40,15 @@ module.exports = {
         name: `posts`,
       },
     },
+    // {
+    //   resolve: `gatsby-plugin-i18n`,
+    //   options: {
+    //     langKeyDefault: 'en',
+    //     langKeyForNull: 'en',
+    //     prefixDefault: false,
+    //     useLangKeyLayout: false,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
