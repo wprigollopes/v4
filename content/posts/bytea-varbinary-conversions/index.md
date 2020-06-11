@@ -1,5 +1,5 @@
 ---
-title: SQL Server and Postgres bytea and varbinary convertsion
+title: SQL Server and Postgres bytea and varbinary conversion
 description: bytea and varbinary types and their conversions
 date: '2020-06-10'
 draft: false
