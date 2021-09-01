@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@william.prigol.lopes',
+      url: 'https://william-prigol-lopes.medium.com',
     },
     {
       name: 'Youtube',
