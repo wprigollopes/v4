@@ -1,5 +1,5 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://yoursite.com',
+  siteUrl: 'https://wprigollopes.dev',
   generateRobotsTxt: true,
 };

@@ -1,22 +1,22 @@
 export const siteConfig = {
-  title: 'Your Name',
+  title: 'William Prigol Lopes',
   description:
-    'Your Name is a software engineer who specializes in building exceptional digital experiences.',
-  siteUrl: 'https://yourname.com',
+    'William Prigol Lopes is a software engineer who specializes in building exceptional digital experiences.',
+  siteUrl: 'https://wprigollopes.dev',
   image: '/og.png',
-  twitterUsername: '@yourname',
+  twitterUsername: '@wprigollopes',
 };
 
-export const email = 'your.email@example.com';
+export const email = 'william.prigol.lopes@gmail.com';
 
 export const socialMedia = [
   {
     name: 'GitHub',
-    url: 'https://github.com/yourname',
+    url: 'https://github.com/wprigollopes',
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/yourname',
+    url: 'https://www.linkedin.com/in/wprigollopes',
   },
 ];
 

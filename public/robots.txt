@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://yoursite.com
+Host: https://wprigollopes.dev
 
 # Sitemaps
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://wprigollopes.dev/sitemap.xml

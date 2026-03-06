@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://yoursite.com/archive</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/clickable-cards</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/dark-mode-toggle</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/docker-error</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/wordpress-publish-error</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/accessibility</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/css</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/dark-mode</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/docker</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/theming</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com/blog/tags/word-press</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://yoursite.com</loc><lastmod>2026-03-04T14:37:30.089Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/archive</loc><lastmod>2026-03-06T02:50:08.319Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/clickable-cards</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/dark-mode-toggle</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/docker-error</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/wordpress-publish-error</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/accessibility</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/css</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/dark-mode</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/docker</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/theming</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev/blog/tags/word-press</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wprigollopes.dev</loc><lastmod>2026-03-06T02:50:08.320Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
